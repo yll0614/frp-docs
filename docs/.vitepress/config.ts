@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
-  base: '/frp/',
+  base: '/',
   lang: 'cn-ZH',
   title: 'LL Frp',
   description: '免费的 Frp 服务器',
@@ -11,10 +11,10 @@ export default defineConfig({
   themeConfig: {
     logo: './icon.svg',
     nav: [
-      { text: '介绍', link: '/welcome' },
-      { text: '下载', link: '/download' },
-      { text: '配置', link: '/setting' },
-      { text: '运行', link: '/run' },
+      { text: '介绍', link: './welcome' },
+      { text: '下载', link: './download' },
+      { text: '配置', link: './setting' },
+      { text: '运行', link: './run' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -32,10 +32,10 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: '介绍', link: '/welcome' },
-          { text: '下载', link: '/download' },
-          { text: '配置', link: '/setting' },
-          { text: '运行', link: '/run' },
+          { text: '介绍', link: './welcome' },
+          { text: '下载', link: './download' },
+          { text: '配置', link: './setting' },
+          { text: '运行', link: './run' },
           // ...
         ],
       },
