@@ -1,0 +1,1 @@
+import{_ as t,o as l,c as e,O as s}from"./chunks/framework.571309da.js";const x=JSON.parse('{"title":"Frpc 配置","description":"","frontmatter":{},"headers":[],"relativePath":"setting.md","filePath":"setting.md"}'),n={name:"setting.md"},a=s("",20),d=[a];function i(p,o,y,r,c,g){return l(),e("div",null,d)}const C=t(n,[["render",i]]);export{x as __pageData,C as default};
