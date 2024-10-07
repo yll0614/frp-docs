@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,O as r}from"./chunks/framework.c9d91543.js";const u=JSON.parse('{"title":"官方 GitHub 下载","description":"","frontmatter":{},"headers":[],"relativePath":"download.md","filePath":"download.md"}'),o={name:"download.md"},n=r("",4),d=[n];function s(i,_,l,c,h,p){return a(),t("div",null,d)}const m=e(o,[["render",s]]);export{u as __pageData,m as default};
