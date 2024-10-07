@@ -9,7 +9,6 @@ export default defineConfig({
  
 
   themeConfig: {
-    logo: './icon.png',
     nav: [
       { text: '介绍', link: './welcome' },
       { text: '下载', link: './download' },
