@@ -6,8 +6,10 @@ export default defineConfig({
   lang: 'cn-ZH',
   title: 'LL Frp',
   description: '免费的 Frp 服务器',
+ 
 
   themeConfig: {
+    logo: './icon.svg',
     nav: [
       { text: '介绍', link: '/welcome' },
       { text: '下载', link: '/download' },
